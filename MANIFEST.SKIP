@@ -5,6 +5,7 @@
 \.releaserc
 \.tmp$
 \.travis.yml
+^\.test_info\.
 \.whitesource
 xt/
 blib/

@@ -384,9 +384,9 @@ AUTHOR
        use, but was asked to make it publicly available as application.
 
 COPYRIGHT AND LICENSE
-       Copyright (C) 2014-2025 H.Merijn Brand
+       Copyright (C) 2014-2026 H.Merijn Brand
 
        This software is free; you can redistribute it and/or modify it under
        the same terms as Perl itself.
 
-perl v5.40.1                      2025-03-14                 App::SpeedTest(3)
+perl v5.42.0                      2026-01-09                 App::SpeedTest(3)
