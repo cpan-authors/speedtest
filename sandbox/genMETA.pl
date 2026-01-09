@@ -65,23 +65,23 @@ recommends:
     Data::Peek:          0.53
     Getopt::Long:        2.58
     HTML::TreeBuilder:   5.07
-    LWP::UserAgent:      6.78
-    Socket:              2.038
-    Time::HiRes:         1.9777
+    LWP::UserAgent:      6.81
+    Socket:              2.040
+    Time::HiRes:         1.9778
     XML::Simple:         2.25
-    Text::CSV_XS:        1.60
+    Text::CSV_XS:        1.61
 suggests:
-    Data::Dumper:        2.189
+    Data::Dumper:        2.192
 configure_requires:
     ExtUtils::MakeMaker: 0
 configure_recommends:
     ExtUtils::MakeMaker: 7.22
 configure_suggests:
-    ExtUtils::MakeMaker: 7.72
+    ExtUtils::MakeMaker: 7.76
 test_requires:
     Test::More:          0
 test_recommends:
-    Test::More:          1.302209
+    Test::More:          1.302219
 resources:
     license:             http://dev.perl.org/licenses/
     homepage:            https://metacpan.org/pod/App::SpeedTest
