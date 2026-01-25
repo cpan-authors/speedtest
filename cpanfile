@@ -16,10 +16,10 @@ recommends "HTML::TreeBuilder"        => "5.07";
 recommends "LWP::UserAgent"           => "6.81";
 recommends "Socket"                   => "2.040";
 recommends "Text::CSV_XS"             => "1.61";
-recommends "Time::HiRes"              => "1.9778";
+recommends "Time::HiRes"              => "1.9764";
 recommends "XML::Simple"              => "2.25";
 
-suggests   "Data::Dumper"             => "2.192";
+suggests   "Data::Dumper"             => "2.183";
 
 on "configure" => sub {
     requires   "ExtUtils::MakeMaker";

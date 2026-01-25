@@ -67,11 +67,11 @@ recommends:
     HTML::TreeBuilder:   5.07
     LWP::UserAgent:      6.81
     Socket:              2.040
-    Time::HiRes:         1.9778
+    Time::HiRes:         1.9764
     XML::Simple:         2.25
     Text::CSV_XS:        1.61
 suggests:
-    Data::Dumper:        2.192
+    Data::Dumper:        2.183
 configure_requires:
     ExtUtils::MakeMaker: 0
 configure_recommends:
