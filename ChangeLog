@@ -1,3 +1,7 @@
+0.32	2026-09-02
+    * Remove broken link in docs
+    * CPAN.org does not forward mail anymore
+
 0.31	2026-01-25
     * It is 2026
 

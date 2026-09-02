@@ -442,12 +442,15 @@ Debian wheezy will run with just two additional packages:
 
 # SEE ALSO
 
-As an alternative to [speedtest.net](http://www.speedtest.net/), you
-could consider [http://compari.tech/speed](http://compari.tech/speed).
+- Python
 
-The [speedtest-cli](https://github.com/sivel/speedtest-cli) project
-that inspired me to improve a broken CLI written in python into our
-beloved language Perl.
+    The [speedtest-cli](https://github.com/sivel/speedtest-cli) project
+    that inspired me to improve a broken CLI written in python into our
+    beloved language Perl.
+
+    [Ookla](https://www.speedtest.net) offers download of a
+    [CLI](https://www.speedtest.net/apps/cli), which is just this python
+    script in disguise.
 
 # CONTRIBUTING
 

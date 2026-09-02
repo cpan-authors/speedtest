@@ -1,6 +1,6 @@
 # Security Policy for the App::SpeedTest distribution.
 
-Report security issues by email to H.Merijn Brand <hmbrand@cpan.org>.
+Report security issues by email to H.Merijn Brand <perl5@tux.freedom.nl>.
 
 This is the Security Policy for App::SpeedTest.
 
@@ -14,7 +14,7 @@ https://security.metacpan.org/docs/guides/security-policy-for-authors.html
 # How to Report a Security Vulnerability
 
 Security vulnerabilities can be reported to the current App::SpeedTest
-maintainers by email to H.Merijn Brand <hmbrand@cpan.org>.
+maintainers by email to H.Merijn Brand <perl5@tux.freedom.nl>.
 
 Please include as many details as possible, including code samples
 or test cases, so that we can reproduce the issue.  Check that your

@@ -41,7 +41,7 @@ version:                 VERSION
 abstract:                Command line interface to speedtest.net
 license:                 perl
 author:
-    - H.Merijn Brand <hmbrand@cpan.org>
+    - H.Merijn Brand <perl5@tux.freedom.nl>
 generated_by:            Author
 distribution_type:       module
 provides:
@@ -62,26 +62,26 @@ requires:
     XML::Simple:         0
 recommends:
     Data::Dumper:        2.154
-    Data::Peek:          0.53
+    Data::Peek:          0.54
     Getopt::Long:        2.58
     HTML::TreeBuilder:   5.07
-    LWP::UserAgent:      6.81
-    Socket:              2.040
-    Time::HiRes:         1.9764
+    LWP::UserAgent:      6.83
+    Socket:              2.043
+    Time::HiRes:         1.9780
     XML::Simple:         2.25
-    Text::CSV_XS:        1.61
+    Text::CSV_XS:        1.64
 suggests:
-    Data::Dumper:        2.183
+    Data::Dumper:        2.192
 configure_requires:
     ExtUtils::MakeMaker: 0
 configure_recommends:
     ExtUtils::MakeMaker: 7.22
 configure_suggests:
-    ExtUtils::MakeMaker: 7.76
+    ExtUtils::MakeMaker: 7.78
 test_requires:
     Test::More:          0
 test_recommends:
-    Test::More:          1.302219
+    Test::More:          1.302224
 resources:
     license:             http://dev.perl.org/licenses/
     homepage:            https://metacpan.org/pod/App::SpeedTest
